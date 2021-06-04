@@ -11,7 +11,6 @@ Contact information appears on the main page of my GitHub.
 To run this project:
 ```
 cd to where the project is placed
-python -m pip freeze > requirements.txt
 pip3 install -r requirements.txt
 python GUI.py
 ```
